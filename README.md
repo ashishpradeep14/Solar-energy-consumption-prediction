@@ -1,4 +1,5 @@
 # ☀️ Solar Energy Production Prediction and Analysis 📊
+ site is live at https://ashishpradeep14.github.io/Solar-energy-consumption-prediction/
 
 This repository contains a Jupyter Notebook (solar energy.ipynb) that demonstrates the process of generating a synthetic solar energy production dataset, performing exploratory data analysis (EDA) 🔍, and setting up a basic machine learning pipeline to predict annual energy production. 📈
 
